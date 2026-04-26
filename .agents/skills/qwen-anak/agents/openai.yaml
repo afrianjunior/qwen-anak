@@ -1,0 +1,6 @@
+interface:
+  display_name: "Qwen Anak"
+  short_description: "Repo-specific patterns and workflows for qwen-anak"
+  default_prompt: "Use the qwen-anak repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
